@@ -56,7 +56,7 @@ export const templates = {
           abandoned-cart recovery, and seamless payment integrations.</p>
           <p>Let me know when you have 10 minutes to talk.</p>
           <p>— ${contactor}</p>`,
-        text: `Hey ${name},\n\nI’m ${contactor} (${role}) at IQVentory...`
+        text: `Hello ${name},\n\nI’m ${contactor} (${role}) at IQVentory...`
       };
     }
   }
